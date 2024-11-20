@@ -1,0 +1,1 @@
+Components that manage state or logic, often connecting to Redux or Vuex.

@@ -1,0 +1,1 @@
+Public assets that don't require processing.
